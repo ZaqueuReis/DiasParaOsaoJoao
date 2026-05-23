@@ -1,6 +1,7 @@
 Contagem de Dias para o São João 
 
 Este projeto em Python calcula quantos dias faltam para o dia 24 de junho (São João) a partir de uma data fornecida pelo usuário.
+
 O programa também considera corretamente os anos bissextos, ajustando fevereiro para 29 dias quando necessário.
 O que o programa faz
 
@@ -56,6 +57,7 @@ calcula em qual dia do ano cai o São João;
 verifica:
 se o São João ainda vai acontecer no mesmo ano;
 ou se já passou e será necessário calcular para o próximo ano.
+
 ▶️ Exemplo de execução
 
 Entrada:
@@ -69,6 +71,7 @@ Saída:
 Faltam 23 dias para o Sao Joao chegar
 🛠️ Tecnologias utilizadas
 Linguagem: Python 3
+
 📌 Observações
 
 O código foi desenvolvido utilizando bastante lógica condicional (if/elif) para praticar:
